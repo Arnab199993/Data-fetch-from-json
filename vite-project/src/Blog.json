@@ -1,0 +1,28 @@
+[
+    {
+     "Name":"John Doe",
+      "id":1,
+      "tech":[
+      {
+        "Course":"Javascript"
+      }
+    ]
+    },
+
+    {"Name":"Jane Doe",
+    "id":2,
+    "tech":[
+        {
+          "Course":"React"
+        }
+      ]
+},
+    {"Name":"Billy Doe",
+    "id":3,
+    "tech":[
+        {
+          "Course":"Vue"
+        }
+      ]
+}
+]
